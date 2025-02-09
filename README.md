@@ -1,6 +1,5 @@
 # employee_details_app
 
-A new Flutter project.
 <img width="250" alt="Screenshot 2025-02-09 at 8 10 13 PM" src="https://github.com/user-attachments/assets/559be318-9290-43ff-b5ba-87fb25fb5281" />
 <img width="250" alt="Screenshot 2025-02-09 at 8 09 53 PM" src="https://github.com/user-attachments/assets/362c9033-8d3c-4f72-806d-1ab0dc28b0dd" />
 <img width="800" alt="Screenshot 2025-02-09 at 8 09 20 PM" src="https://github.com/user-attachments/assets/b630511a-d8c7-4313-9371-85a7659014df" />
